@@ -1,6 +1,6 @@
 # ClearLine-RegForge™
 
-**Colorado Precision Compliance Library**
+**State-specific & Commonality-based Crafted Precision Compliance Library**
 
 Forge your compliance from Reg Bibles + Engine templates.
 
