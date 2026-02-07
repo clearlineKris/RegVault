@@ -23,76 +23,76 @@ We are systematically expanding coverage to all major U.S. cannabis markets. Eac
 ## Q1 2026: Upcoming Markets (Coming Soon)
 
 ### California (CA)
-**Teaser**: Explore the complex regulatory landscape of the world's largest legal cannabis market. Our analysis will examine California's dual-licensing system, local control patchwork, and unique challenges including tax structures, testing requirements, and the ongoing tension between the legacy market and regulated operators.
+**Teaser**: California's dual-licensing system creates uncertainty about which activities require state versus local approval. The state's 400+ local jurisdictions each interpret "reasonable regulation" differently, creating a patchwork of contradictory compliance requirements.
 
 ### Washington (WA)
-**Teaser**: Dive into Washington's trailblazing adult-use framework, analyzing the state's lottery-based licensing system, advertising restrictions, and the regulatory evolution since Initiative 502. We'll examine enforcement patterns, local bans, and the operational impacts of Washington's unique regulatory approach.
+**Teaser**: Washington prohibits medical and adult-use license stacking, but the definition of "true party of interest" remains ambiguous. This creates gray areas around permissible financial relationships and ownership structures.
 
 ### Oregon (OR)
-**Teaser**: Investigate Oregon's cannabis regulatory penumbra, including the state's oversupply crisis, licensing caps debate, and local option dynamics. Our research will focus on product testing ambiguities, residency requirements, and the complex interplay between OLCC regulations and local ordinances.
+**Teaser**: Oregon regulations are silent on whether testing labs can reject samples for unstated quality concerns. This enforcement gap allows inconsistent application of safety standards across the state's fragmented testing infrastructure.
 
 ### Nevada (NV)
-**Teaser**: Analyze Nevada's tourism-driven cannabis market and its distinctive regulatory framework. We'll explore consumption lounge regulations, vertical integration requirements, early-start provisions, and the regulatory challenges of operating in a market heavily influenced by Las Vegas tourism.
+**Teaser**: Nevada's consumption lounge regulations leave "supervision" requirements undefined, creating uncertainty about staffing and liability. Operators face ambiguity about what constitutes adequate monitoring of on-site consumption.
 
 ### Illinois (IL)
-**Teaser**: Examine Illinois's social equity-focused licensing system and its implementation challenges. Our analysis will cover conditional licensing, true party of interest scrutiny, craft grower and infuser categories, and the regulatory complexities emerging from the state's effort to build an equitable market from the ground up.
+**Teaser**: Illinois's "true party of interest" rules prohibit undisclosed control but don't define what constitutes "control." Management agreements, consulting contracts, and financing arrangements exist in regulatory gray areas.
 
 ---
 
 ## Q2 2026: Upcoming Markets (Coming Soon)
 
 ### Michigan (MI)
-**Teaser**: Study Michigan's transformation from caregiver model to commercial market, exploring stacking prohibitions, municipality opt-in dynamics, and microbusiness opportunities. We'll analyze the regulatory tensions between medical and adult-use programs and enforcement discretion patterns.
+**Teaser**: Michigan's stacking prohibition creates ambiguity about when separate legal entities constitute impermissible common control. The statute doesn't clarify how family relationships or shared investors affect license eligibility.
 
 ### Massachusetts (MA)
-**Teaser**: Investigate Massachusetts's host community agreement framework, economic empowerment priority, and the regulatory complexity of operating in New England's largest cannabis market. Our research will examine delivery regulations, packaging requirements, and the evolving relationship between local and state control.
+**Teaser**: Massachusetts requires "host community agreements" but provides no statutory limits on municipal demands. This creates uncertainty about what constitutes an "unreasonable" local requirement beyond the 3% impact fee cap.
 
 ### Arizona (AZ)
-**Teaser**: Analyze Arizona's adult-use transition through Proposition 207, exploring vertical integration models, dual licensure pathways, and the regulatory penumbra surrounding social equity applicants. We'll examine testing standards, local zoning authority, and the operational impacts of Arizona's desert-state specific regulations.
+**Teaser**: Arizona's Proposition 207 grants existing medical dispensaries "dual licensure" but leaves scope of operations undefined. The penumbra around whether dual licenses can exceed single-license canopy limits remains unresolved.
 
 ### New Jersey (NJ)
-**Teaser**: Examine New Jersey's highly regulated market entry, including conditional licensing, diversification requirements, and municipal approval processes. Our analysis will cover the transition from medical to adult-use, Class 1/Class 2 distinctions, and the regulatory landscape of the Northeast's newest major market.
+**Teaser**: New Jersey's "diversification" requirement mandates ownership representation but doesn't define qualifying criteria. This ambiguity affects how operators demonstrate compliance with social equity ownership goals.
 
 ### New York (NY)
-**Teaser**: Dive into New York's CAURD program and the state's ambitious social equity framework. We'll explore the Office of Cannabis Management's evolving regulations, conditional adult-use retail dispensary licenses, vertical integration restrictions, and the unique challenges of building a market in the Empire State.
+**Teaser**: New York's CAURD program prioritizes "justice-involved" applicants but the statute lacks clear criteria for evaluating claims. Eligibility disputes arise from ambiguous definitions of cannabis-related convictions and their connection to applicants.
 
 ---
 
 ## Q3 2026: Upcoming Markets (Coming Soon)
 
 ### Pennsylvania (PA)
-**Teaser**: Investigate Pennsylvania's medical-only program and the regulatory ambiguities affecting patient access, grower-processor vertical integration, and the ongoing debate over adult-use legalization. Our research will examine dispensary permitting, regional caps, and the operational complexities of a medical-only framework.
+**Teaser**: Pennsylvania's medical program requires physician "certification" rather than "recommendation," creating ambiguity about the clinical standard required. This distinction affects liability exposure and the physician-patient relationship in ways unaddressed by regulations.
 
 ### Maryland (MD)
-**Teaser**: Analyze Maryland's transition to adult-use sales and the regulatory evolution from medical-only framework. We'll explore micro-license categories, social equity provisions, testing requirements, and the challenges of operating in a newly expanded market with rapidly evolving regulations.
+**Teaser**: Maryland's transition rules allow medical dispensaries to convert to adult-use but don't specify priority rights. This creates uncertainty about whether conversion applicants have preferential status over new entrants.
 
 ### Connecticut (CT)
-**Teaser**: Examine Connecticut's phased adult-use rollout, lottery system for social equity applicants, and the regulatory framework governing hybrid retailers. Our analysis will cover municipal opt-out authority, cultivation requirements, and the operational impacts of Connecticut's conservative regulatory approach.
+**Teaser**: Connecticut's social equity lottery system lacks defined scoring criteria for "disproportionate impact" areas. Applicants face uncertainty about how residency and conviction history are weighted in the selection process.
 
 ### Rhode Island (RI)
-**Teaser**: Study Rhode Island's compact market structure, hybrid license opportunities, and the regulatory penumbra surrounding compassion centers' transition to adult-use. We'll analyze local licensing authority, testing standards, and the unique challenges of operating in one of the smallest state markets.
+**Teaser**: Rhode Island's "hybrid license" allows compassion centers to serve both markets but doesn't define required operational separation. The degree of mandated segregation between medical and adult-use operations remains unclear.
 
 ### Montana (MT)
-**Teaser**: Investigate Montana's adult-use implementation following voter approval, exploring county opt-out dynamics, canopy restrictions, and vertical integration requirements. Our research will examine the regulatory ambiguities surrounding Montana's unique market structure and the practical impacts on rural operators.
+**Teaser**: Montana's county-level opt-out provision leaves the definition of "opt-out" ambiguous. Counties face uncertainty about whether they can ban specific license types while permitting others.
 
 ---
 
 ## Q4 2026: Upcoming Markets (Coming Soon)
 
 ### Alaska (AK)
-**Teaser**: Analyze Alaska's remote market challenges, on-site consumption endorsements, and the regulatory framework adapted to the state's unique geography. We'll explore local option controls, testing requirements, and the operational complexities of cannabis businesses in America's northernmost state.
+**Teaser**: Alaska's on-site consumption endorsement regulations don't specify ventilation or separation standards. Operators lack clear guidance on facility requirements for consumption areas adjacent to retail operations.
 
 ### Maine (ME)
-**Teaser**: Examine Maine's caregiver-friendly approach, adult-use storefront regulations, and the distinction between medical and adult-use programs. Our analysis will cover municipal opt-in requirements, testing protocols, and the regulatory landscape that makes Maine's market distinctively operator-accessible.
+**Teaser**: Maine's caregiver program allows "designated caregivers" to cultivate for patients but doesn't define permissible compensation. The line between lawful caregiver activity and unlicensed commercial operation remains ambiguous.
 
 ### Vermont (VT)
-**Teaser**: Investigate Vermont's legislative legalization path and phased market implementation. We'll explore local control provisions, small-scale cultivation opportunities, and the regulatory penumbra surrounding Vermont's measured approach to commercial cannabis.
+**Teaser**: Vermont allows home cultivation but regulations don't address "gifting" between adults. This creates gray areas around what constitutes permissible personal transfer versus illegal distribution.
 
 ### New Mexico (NM)
-**Teaser**: Study New Mexico's rapid adult-use implementation, microbusiness opportunities, and the state's approach to social equity and rural access. Our research will examine reciprocity provisions, local licensing dynamics, and the regulatory challenges of building a market in the Southwest.
+**Teaser**: New Mexico's microbusiness license limits production but doesn't define "small-scale" cultivation thresholds. Operators face uncertainty about when growth triggers reclassification to standard producer status.
 
 ### Missouri (MO)
-**Teaser**: Analyze Missouri's constitutional amendment approach, micro-license availability, and existing medical license conversion pathways. We'll explore local authority limitations, testing requirements, and the regulatory framework emerging from voter-driven legalization.
+**Teaser**: Missouri's constitutional amendment limits local authority but doesn't specify how "reasonable restrictions" are defined. Municipalities and operators clash over what constitutes permissible versus prohibited local regulation.
 
 ---
 
