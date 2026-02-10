@@ -3,7 +3,7 @@
 ## The Rapid Expansion Problem: When Market Growth Outpaces Regulatory Clarity
 
 **State:** Michigan (MI)  
-**Series:** Margin Notes - Potent-Penaural Library  
+**Series:** Margin Notes - Potent Penaural Library  
 **Focus:** Regulatory Ambiguities & Gray Areas
 
 ---
