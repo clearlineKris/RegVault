@@ -1,7 +1,7 @@
-# WA Margin Notes
+# Margin Notes - Grey Matter Index
 
-## Series
-This document is part of the Grey Matter Index Series.
+## Overview
 
-## Footer
-This document is produced by the Grey Matter Index. Please refer to the Grey Matter Index for more information.
+These are the margin notes for the Grey Matter Index's Margin Notes series. This document contains insights and key information related to the Grey Matter Index.
+
+// Other content continues here...
