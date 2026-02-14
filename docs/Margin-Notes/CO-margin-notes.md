@@ -3,7 +3,7 @@
 ## The Pioneer's Paradox: Navigating Colorado's Evolving Cannabis Framework
 
 **State:** Colorado (CO)  
-**Series:** Margin Notes - Penumbrant-Pass-Portal  
+**Series:** Margin Notes - Grey Matter Index  
 **Focus:** Regulatory Ambiguities & Gray Areas
 
 ---
@@ -24,4 +24,4 @@ Colorado's cannabis regulatory framework exists in a perpetual state of evolutio
 
 ---
 
-*This document is part of the Potent Penaural Library's Margin Notes series, exploring the penumbra of regulatory law where ambiguity meets enforcement reality. Not legal advice.*
+*This document is part of the Grey Matter Index's Margin Notes series, exploring the penumbra of regulatory law where ambiguity meets enforcement reality. Not legal advice.*
