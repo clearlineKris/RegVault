@@ -1,6 +1,6 @@
 # The METRC Data Sovereignty Paradox
 
-**Part of the Penumbrant-Pass-Portal**  
+**Part of the Grey-Matter-Praxis**  
 *Exploring who owns compliance data in cannabis tracking systems*
 
 ---
