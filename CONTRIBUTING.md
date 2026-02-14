@@ -1,6 +1,6 @@
-# Contributing to Penumbrant-Pass-Portal
+# Contributing to Grey Matter Index
 
-Thank you for considering contributing to Penumbrant-Pass-Portal! We appreciate your support and commitment.
+Thank you for considering contributing to Grey Matter Index! We appreciate your support and commitment.
 
 ## Getting Started
 
