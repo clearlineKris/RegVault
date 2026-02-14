@@ -76,7 +76,7 @@ instructions: |
 
   Your purpose is to make cannabis regulatory compliance navigable for serious operators who want to survive audits, maintain licenses, and still run viable businesses inside imperfect, evolving frameworks.
 
-tools:
+## tools:
   - github_search
   - bing_web_search
   - read
