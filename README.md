@@ -3,20 +3,38 @@
 
 ---
 
-## 🎯 The ClearLine Approach
+-  ## 🎯 The ClearLine Approach - 
 
 Most cannabis compliance resources tell you **what the law says**.  
 ClearLine tells you **what the law says** AND **where the law is unclear**.
 
-We provide two complementary product lines:
+We provide a suite of complementary insight sources:
 
 ### 📜 LOTL Stack (Letter of the Law)
 **The law everyone knows.**  
 Official statutes, regulation numbers, settled legal frameworks, industry impact.
 
+### 🤭 Lil LOTL Stack (A more "diet" version of LOTL Stacks)
+This document highlights the most important portions of the law, relative to the state and its industry trends at the time of publishing. 
+
 ### 🌑 Penumbrant Prose Manual
 **The regulatory shadows.**  
 Gaps, ambiguities, enforcement uncertainties, risk surfaces.
+
+### 🥬 Field Notes 
+**The landscape of one state's policy terrain**
+A brief exhaustive of a given state's "obstacle course" of policy, relative to historical political climate and ongoing influences quietly shaping the air around policy. 
+
+###📄 Margin Notes
+**What the landscape of policy is, from the fringes**
+While the **Penumbrant Prose Manuals** detail the complete gray area of the law, these articles add in lived experiences from real opeerators reporting from the trellised trenches of the insustry, adding body to the fog of cannabis policy from where they stand. 
+
+### 💼 Penumbrant Executive Briefs
+**A digestible version of the grey area, as an appetizer**
+This document contains the most pressing and high-level areas of the penumbra (grey area of law), relative to trends within the state and relative to the industry.
+
+### ✒️ PENpoints - Topic-Specific Field Guide Deep Dives
+These specific deep dives put a magnifying lens to some of the more obscure yet equally important facets surrounding the enigma that is canna-policy. From METRC contradictions to state-level gaslighting (as is the case with NE and their AG - something you should read about), these deep dives are sure to get your attention, or at the very least, yo bul
 
 **Together:** Complete regulatory intelligence for informed compliance decisions.
 
