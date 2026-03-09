@@ -10,7 +10,7 @@ ClearLine tells you what the law *says*, where it's unclear, how regulators have
 
 The Grey Matter Volumes stand as the public record of that work — a versioned, structured intelligence archive covering cannabis-regulated markets across jurisdictions. 
 
-*It is not a summary. It is not a checklist. It is the full document stack, organized by type and updated as the regulatory landscape moves.*
+*It is not a **summary**. It is not a **checklist**. It is the **full document stack**, organized by type and updated as the regulatory landscape moves.*
 
 This is what ClearLine *produces*. This is how ClearLine **thinks**.
 
