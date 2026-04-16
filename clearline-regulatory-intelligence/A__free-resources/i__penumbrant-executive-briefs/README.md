@@ -1,8 +1,8 @@
 # Penumbra & Potpourri: 
 *Specialized & Focused Info Pieces Detailing on granular topics, special exceptions, and aspects surrounding the penumbrae across the Cannabis Industry*
 
-Part of the ***Grey*** ***Matter*** ***Praxis***
-(*formerly the Protocols Lexic, Potent Penumbrant Lexicon, & the RegForge*)
+Part of the ***Grey Matter Volumes***
+(*formerly the Protocols Lexic*)
 
 ---
 
@@ -76,7 +76,7 @@ As outlined in the [updated guidance](../pull_request_comments/1.md), Penumbrant
 
 ### Disclaimer
 
-All documents in this series are part of the Grey Matter Praxis, a trademark of ClearLine; they provide customized insights based on real legal statute and regulatory frameworks. 
+All documents in this series are part of the Grey Matter Volumes, a trademark of ClearLine; they provide customized insights based on real legal statute and regulatory frameworks. 
 
 Please bear in mind that **information included in all of these documents *are* *NOT* *legal* *advice*, nor should they be construed as such.** 
 

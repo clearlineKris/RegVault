@@ -1,6 +1,6 @@
 # Product Outlines — clearlineKris Portfolio
 
-*Kris in the Loop | Grey Matter Praxis*
+*Kris in the Loop | Grey Matter Volumes*
 
 ---
 
