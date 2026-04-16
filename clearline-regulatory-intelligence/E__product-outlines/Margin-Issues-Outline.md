@@ -1,6 +1,6 @@
 # Margin Issues — Product Outline
 
-*ClearLine Regulatory Intelligence | Grey Matter Praxis*
+*ClearLine Regulatory Intelligence | Grey Matter Volumes*
 
 ---
 

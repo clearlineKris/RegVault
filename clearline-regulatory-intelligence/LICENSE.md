@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
-Copyright © 2026 Kristopher Gracia / ClearLine RegForge™
+Copyright © 2026 Kristopher Gracia / Grey Matter Volumes™
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-
 NoDerivatives 4.0 International License.
@@ -9,7 +9,7 @@ You are free to:
 - View and reference this work with proper attribution
 
 Under the following terms:
-- Attribution: You must give appropriate credit to ClearLine RegForge™
+- Attribution: You must give appropriate credit to Grey Matter Volumes™
 - NonCommercial: You may not use the material for commercial purposes
 - NoDerivatives: You may not distribute modified versions
 
